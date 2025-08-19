@@ -25,8 +25,8 @@ author:
   avatar           : "profile.png"
   name             : "Haoran Pan"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Boston"
+  #bio              : "Short biography for the left-hand sidebar"
+  location         : "Boston, USA"
   employer         : "Boston University"
   uri              : # URL
   email            : "hpan51@bu.edu" 
