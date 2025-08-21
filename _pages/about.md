@@ -10,3 +10,5 @@ redirect_from:
 Welcome to my home page! I am Haoran Pan, a Ph.D. Economics candidate at Boston University. My main research interest is applied econometrics, with focus on networks and causal inference. My job market paper studies the treatment effect of information provision under network spillovers. 
 
 In addition, my broader research interests include industrial organization, health economics, experimental economics.
+
+<div class="wordwrap">You can find my CV <a href="http://tom-pan.github.io/files/HaoranPanCV.pdf"> here </a>.</div>
