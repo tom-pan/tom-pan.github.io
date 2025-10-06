@@ -8,16 +8,11 @@ author_profile: true
 <section class="page__content" itemprop="text">
 <hr>
 <h2 id="working-papers">Working Papers</h2>
-<ul><li><a href="" style="text-decoration:none" target="_blank">Treatment Effect of Information Provision in Network Experiments</a>   
+<ul><li><a href="http://tom-pan.github.io/files/JMP.pdf" style="text-decoration:none" target="_blank">Nonparametric Estimation of Treatment Effects with Endogenous Peers</a>   
 
 <br> <a href="#/" style="color:black" onclick="visib('jmp')"><em>Abstract</em></a> | <em>Job Market Paper </em></li></ul>
 
-<div id="jmp" style="display: none; background-color: #F1F1F1; color: #666; padding: 10px"> Information provision has been a popular option in the experimenal literature. Unlike physical goods, 
-information is easy to spread, causing concerns for spillovers. Such spillover can be important to gauge the effect of information provision. Intuitively, when neighbors 
-have deep understanding about a policy, providing extra information may have diminshed effect. The treatment effect defined in this paper captures this idea by allowing the treatment effect to vary across the average neighbor 
-outcomes. A nonlinear peer effect model is adopted to model the outcome and define such treatment effect. The simultaneity problem, which is further complicated by the nonlinearity, is solved by comparing agents with the same 
-neighbors. The paper then constructs a non-parametric estimator for this treatment effect and the consistency of the estimator is established. Application of the proposed method to an anti-violence campaign illustrates the presence of 
-considerable nonlinearities in the treatment effect.</div>
+<div id="jmp" style="display: none; background-color: #F1F1F1; color: #666; padding: 10px"> When individual outcomes depend on peer outcomes, treating an individual in a network affects all connected individuals. This causes the absence of a control group and threatens the validity of causal inference. Existing methods assume linear functional forms and exogenous networks, or exclude the dependence on peer outcomes. By introducing a nonparametric peer effect model, I prove that the treatment effect is identified by comparing individuals with the same neighbors but different treatment status, which does not rely on the above assumptions. Estimation is performed using a combination of a kernel estimator, which relaxes the same neighbor condition in finite samples, and the method of sieves. The consistency of the proposed estimator is then established. Application of this method to an anti-violence campaign suggests that the effect of the campaign on individual attitude is increasing in the average neighbor attitude.</div>
 
 
 <ul><li><a href="" style="text-decoration:none" target="_blank">A Flexible Test for Homophily in Network Formation Models</a> 
